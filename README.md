@@ -1,3 +1,7 @@
+# Project Description
+
+This basic to-do ReactJS app was created for me to learn the fundementals of React before starting my internship at Phosphorland, Portugal.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
